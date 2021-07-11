@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there 👋 I'm Ilya
 
-<!--
-**just-evseev/just-evseev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇷🇺 I live in Moscow, Russia.
+- 🐍 I'm a software developer at [Yandex GO](https://go.yandex/ru_ru/).
+- 🤖 Most of the time I'm writing on Swift and Objective-C
+- 🚀 I love pet-projects. They help me grow professionally all my life.
+- ✉️ You can shoot me an email at [just-evseev@gmail.com](mailto:just-evseev@gmail.com).
 
-Here are some ideas to get you started:
+#### My CV: [Ilya Evseev](www.linkedin.com/in/just-evseev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 My fancy badge area
+
+MODIFIED
+
+
+
+## 🐶 My pet-projects
+
+MODIFIED
+
+## 🤝 Connect with me
+
+MODIFIED
