@@ -12,12 +12,10 @@
 
 MODIFIED
 
-
-
 ## 🐶 My pet-projects
 
-MODIFIED
+[Hottest corner](https://github.com/bits-ee/hottestcorners) - MacOS app to upgrade system hot corner functionality
 
 ## 🤝 Connect with me
 
-MODIFIED
+[Telegram](t.me/just_evseev)
