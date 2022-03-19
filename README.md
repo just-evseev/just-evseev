@@ -6,7 +6,7 @@
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✉️ You can shoot me an email at [just.evseev@gmail.com](mailto:just.evseev@gmail.com).
 
-#### My CV: [Ilya Evseev](https://linkedin.com/in/just-evseev)
+#### My CV: [Ilya Evseev](https://resume.io/r/sPvaC1aKf)
 
 ## 🛠 My fancy badge area
 
